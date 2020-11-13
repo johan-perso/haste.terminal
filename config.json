@@ -1,0 +1,10 @@
+{
+    "textInput": "Entrer un texte : ",
+    "writeThing": "Veuillez écrire quelque choses.",
+    "linkGenerated": "Lien générée avec succès : ",
+    "viewText": "Voulez-vous voir votre texte ? Y or N",
+    "shutdown": "Arrêt...",
+    
+    "touchY": ["ENTER","y","Y","o","O"],
+    "touchN": ["ESCAPE","BACKSPACE","n","N"]
+}
