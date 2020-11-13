@@ -26,7 +26,7 @@ Installez l'app Termux depuis le Play Store (Si tu l'as pas rip), Donne a cette 
 
 ## Comment le lancer
 
-Ouvrez un terminal et allez dans le dossier où est le selfbot en utilisant la commande `cd <Dossier>` puis utilisez node pour le lancer (`node index.js`)
+Ouvrez un terminal et allez dans le dossier où sont les fichiers config.json et index.js en utilisant la commande `cd <Dossier>` puis utilisez node pour le lancer (`node index.js`)
 
 
 ## Comment modifier le texte de haste.terminal
