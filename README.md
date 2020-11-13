@@ -3,6 +3,11 @@
 ## Comment l'installer
 
 
+
+
+
+
+
 ### Linux
 
 Après avoir installé node.js et npm, Installez terminal-kit (`npm i terminal-kit`) ainsi que hastebin.js (`npm i hastebin.js`) et télécharger le fichier config.json et index.js où vous voulez sur votre appareil. Une fois ceci fait tout est bon : Rendez vous à l'étape pour lancer haste.terminal :)
