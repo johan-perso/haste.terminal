@@ -1,9 +1,10 @@
-# [----------------------------]
-# [ Haste.terminal n'est plus  ]
-# [ fonctionnel. Veuillez      ]
-# [ utiliser [HasteCLI](https://github.com/johan-perso/hastecli) à la     ]
-# [ place (beaucoup mieux)     ]
-# [----------------------------]
+## Discontinued
+[----------------------------]
+[ Haste.terminal n'est plus  ]
+[ fonctionnel. Veuillez      ]
+[ utiliser [HasteCLI](https://github.com/johan-perso/hastecli) à la     ]
+[ place (beaucoup mieux)     ]
+[----------------------------]
 
 # haste.terminal
 
