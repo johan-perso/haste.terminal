@@ -1,3 +1,10 @@
+# [----------------------------]
+# [ Haste.terminal n'est plus  ]
+# [ fonctionnel. Veuillez      ]
+# [ utiliser [HasteCLI](https://github.com/johan-perso/hastecli) à la     ]
+# [ place (beaucoup mieux)     ]
+# [----------------------------]
+
 # haste.terminal
 
 ## Comment l'installer
