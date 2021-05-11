@@ -4,7 +4,11 @@ const hastebin = require('hastebin.js'); // Utilisation de hastebin : Création 
 const haste = new hastebin({ /* url: 'hastebin.com */ }); // Utilisation de hastebin : Création de haste
 const config = require('./config.json'); // Utilisation de config.json : Traduction
 
-
+// Informer que Haste.terminal ne fonctionne plus
+term.red("Haste.termiinal n'est plus supporté. ")
+term.red("Veuillez télécharger et utiliser HasteCLI (")
+term.cyan("https://github.com/johan-perso/hastecli")
+term.red("). - Johan")
 
 // Code principal
 term.white(config.textInput); // Demande de texte
