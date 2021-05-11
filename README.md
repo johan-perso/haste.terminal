@@ -1,12 +1,4 @@
-## Discontinued
-[----------------------------]
-[ Haste.terminal n'est plus  ]
-[ fonctionnel. Veuillez      ]
-[ utiliser [HasteCLI](https://github.com/johan-perso/hastecli) à la     ]
-[ place (beaucoup mieux)     ]
-[----------------------------]
-
-# haste.terminal
+# Haste.terminal n'est plus fonctionnel. Veuillez utiliser [HasteCLI](https://github.com/johan-perso/hastecli) à la place.
 
 ## Comment l'installer
 
